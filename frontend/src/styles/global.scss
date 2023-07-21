@@ -1,0 +1,26 @@
+* {
+    font-family: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+*:active,
+*:focus {
+    outline: none;
+}
+input,
+select {
+    padding: 0.25rem;
+    display: inline-block;
+}
+
+html,
+body {
+    min-height: 100%;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #eee;
+}
